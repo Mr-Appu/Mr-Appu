@@ -2,7 +2,7 @@
 
 <h1>Welcome to my Digiverse..</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://thumbs.gfycat.com/AdolescentAgileCoqui.webp' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rahulram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulram-p/)](https://www.linkedin.com/in/rahulram-p/) [![Gmail Badge](https://img.shields.io/badge/-rahulram04rc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulram04rc@gmail.com)](mailto:rahulram04rc@gmail.com)
 
@@ -13,7 +13,8 @@
 ## :computer: Technologies I Love
 * Machine Learning
 * Data Science
-* Data Analysis 
+* Problem Solving
+* Data Analysis
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-appu&layout=compact">
 
