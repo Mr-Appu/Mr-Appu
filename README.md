@@ -1,24 +1,14 @@
-## Hey, [P Rahulram here!](https://www.linkedin.com/in/rahulram-p/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1 align="center">Hi, I'm Rahulram! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px"></h1> 
+<h3 align="center">An aspiring Data Scientist and a Competitive Programmer! </h3>
 
-<h1>Welcome to my Digiverse..</h1> 
+<div align = "center">
+	
+[![Linkedin Badge](https://img.shields.io/badge/-Rahulram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulram-p/)](https://www.linkedin.com/in/rahulram-p/)	
+[![Gmail Badge](https://img.shields.io/badge/-rahulram04rc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulram04rc@gmail.com)](mailto:rahulram04rc@gmail.com)
+	
+</div>
 
-<img src = 'https://thumbs.gfycat.com/AdolescentAgileCoqui.webp' alt = 'Awesome Matrix Code' align='right' width="250" height="250"/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rahulram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahulram-p/)](https://www.linkedin.com/in/rahulram-p/) [![Gmail Badge](https://img.shields.io/badge/-rahulram04rc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rahulram04rc@gmail.com)](mailto:rahulram04rc@gmail.com)
-
-<img width="100em" src="https://komarev.com/ghpvc/?username=mr-appu&color=green&style=flat-square">
-
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
-
-## :computer: Technologies I Love
-* Machine Learning
-* Data Science
-* Problem Solving
-* Data Analysis
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mr-appu&layout=compact">
-
-## Languages and Tools
+<!-- ## Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -31,30 +21,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'P Rahulram',
-		current_work = 'Writing code',
-		hobbies = [
-				'Painting',
-				'Watching Anime',
-				'Being up all Night chasing that ONE BUG...'
-			  ]
-	
-	def getCity():
-		return Chennai_India()
-	
- ```
- 
-## Current Works
+  -->
+<!-- ## Current Works
  * Started learning Natural Language Processing !!!
- * I'm currently working on 🔭 building **Projects using NLP** and working up on polishing my skills 🌱 in **Competitive Programming**.
- 
-<br>
+ * I'm currently working on 🔭 building **Projects using NLP** and working up on polishing my skills 🌱 in **Competitive Programming**. -->
 
-[![Rahul's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mr-appu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Rahul's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=mr-appu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
- 
- 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-appu&show_icons=true&theme=dark&locale=en&layout=compact" alt="mr-appu"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-appu&show_icons=true&theme=dark&hide_border=true&locale=en" alt="mr-appu"/>
+</details>
